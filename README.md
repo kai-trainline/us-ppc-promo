@@ -6,4 +6,6 @@
 
 Powered by impression to transaction conversion rate `i2t_cvr`
 
+
+The data used can be found in `data-input` folder with name `data_v5.csv`
 The result can be found in `data-output` folder with name `power_analysis_result.csv`
